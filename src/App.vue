@@ -4,6 +4,7 @@
       <img src="./assets/logo.png" alt="Vue logo">
     </div>
     <router-view/>
+    <span v-if="false">тестовый коммит</span>
   </div>
 </template>
 
